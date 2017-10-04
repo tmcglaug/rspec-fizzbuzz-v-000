@@ -3,17 +3,17 @@ def fizzbuzz(int)
    if int % 3 = 0
         "Fizz"
 
-   else 
+   else
      if int % 5 = 0
                 "Buzz"
-              else 
+              else
                 if int % 15 = 0
                     "FizzBuzz"
                    end
         end
 end
 
-    
+
 
 
 end
